@@ -1,7 +1,7 @@
-# Efficiency Checker Mod
-See if your production is underflowing!
+# Wall Pipe Supports
+Additional variants of the wall pipe support
 
-See the mod at [ficsit.app](https://ficsit.app/mod/ZNFaaRV4ow5M4)
+See the mod at [ficsit.app](https://ficsit.app/mod/6yFR96phoYG8rP)
 
 # Discord Server
 Join the [discord server](https://discord.gg/X6AUfn) to talk about Satisfactory Modding in general.
