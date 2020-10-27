@@ -5,6 +5,7 @@
 .idea/
 
 Binaries/
+Binaries_old/
 
 # Compiled Object files
 *.slo
