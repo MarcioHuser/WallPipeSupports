@@ -96,11 +96,18 @@ CVS/
 Content/AdvancedLogistics
 Content/Maps
 
-
-Source/*.rar
+*.rar
 
 # Other project folders
 Content/PowerCheckerMod
 Source/PowerCheckerMod
 Content/SuppressUnaffordableMod
 Source/SuppressUnaffordableMod
+Content/Developers/
+Content/Collections/
+Content/WwiseAudio/
+
+*.stackdump
+*.blend
+*.blend?
+*.fbx
